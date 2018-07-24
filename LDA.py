@@ -29,7 +29,7 @@ with_S += sc_classmat1 + sc_classmat2
 
 
 total_mean = np.mean(data, axis=0)
-total_mean = total_mean.reshape(19,1)
+total_mean = total_mean.reshape(19,1
 
 
 S_between = np.zeros((19,19))
